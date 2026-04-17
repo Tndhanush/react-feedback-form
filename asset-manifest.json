@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chipmatrix/static/css/main.8bb7ff05.css",
+    "main.js": "/chipmatrix/static/js/main.14631935.js",
+    "static/js/453.25864346.chunk.js": "/chipmatrix/static/js/453.25864346.chunk.js",
+    "index.html": "/chipmatrix/index.html",
+    "main.8bb7ff05.css.map": "/chipmatrix/static/css/main.8bb7ff05.css.map",
+    "main.14631935.js.map": "/chipmatrix/static/js/main.14631935.js.map",
+    "453.25864346.chunk.js.map": "/chipmatrix/static/js/453.25864346.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bb7ff05.css",
+    "static/js/main.14631935.js"
+  ]
+}
